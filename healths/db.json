@@ -1,87 +1,77 @@
 [
-  
-   { 
-    "info1":[
+  {
+    "info1": [
       "Mental Health",
       "Medical Care",
       "Lifestyle",
       "Emergency & Safety",
       "Beauty & Wellness",
-      "Health Management",
-      "Home Healths"
-  ],
-
-  "info2":[
-   "Mental Health",
-      "Medical Care",
-      "Lifestyle",
+      "Health Management"
+    ],
+    "info2": [
       "Emergency & Safety",
       "Beauty & Wellness",
       "Health Management",
-      "Home Healths"
-  ],
-    
-  "info3":[
-   "Mental Health",
+      "Mental Health",
       "Medical Care",
+      "Lifestyle"
+    ],
+    "info3": [
       "Lifestyle",
+      "Mental Health",
+      "Medical Care",
       "Emergency & Safety",
       "Beauty & Wellness",
-      "Health Management",
-      "Home Healths"
-  ],
-    
-  "info4":[
-    "Mental Health",
+      "Health Management"
+    ],
+    "info4": [
+      "Mental Health",
       "Medical Care",
       "Lifestyle",
+      "Beauty & Wellness",
+      "Emergency & Safety",
+      "Health Management"
+    ],
+    "info5": [
       "Emergency & Safety",
       "Beauty & Wellness",
-      "Health Management",
-      "Home Healths"
-  ],
-    
-  "info5":[
-     "Mental Health",
+      "Mental Health",
+      "Medical Care",
+      "Lifestyle", 
+      "Health Management"
+    ],
+    "info6": [
+      "Mental Health",
+      "Emergency & Safety",
+      "Beauty & Wellness",
       "Medical Care",
       "Lifestyle",
-      "Emergency & Safety",
-      "Beauty & Wellness",
-      "Health Management",
-      "Home Healths"
-   
-  ],
-    
-  "info6":[
-   "Mental Health",
+      "Health Management"
+    ],
+    "info7": [
+      "Mental Health",
       "Medical Care",
-      "Lifestyle",
       "Emergency & Safety",
       "Beauty & Wellness",
-      "Health Management",
-      "Home Healths"
-  ],
-    
-  "info7":[
-   "Mental Health",
-      "Medical Care",
       "Lifestyle",
-      "Emergency & Safety",
-      "Beauty & Wellness",
-      "Health Management",
-      "Home Healths"
-  ]
+      "Health Management"
+    ]
   },
-
-
-  
   {
     "id": "1",
     "create_time": 1724132963,
     "title": "Transforming Healthcare: The Dynamics of Health Plans",
     "type": "Health Management",
     "img": "1.jpg"
+  }, 
+  {
+    "id": "2",
+    "create_time": 1744878997,
+    "title": "The Multifaceted Advantages of Hair Transplant: A Gateway to a New You",
+    "type": "Beauty & Wellness",
+    "img": "2.jpg"
   },
+ 
   {
     "id": "3",
     "create_time": 1753753638,
@@ -151,6 +141,13 @@
     "title": "Trauma Explained: Fractures, Brain Injuries, and How They Are Treated",
     "type": "Medical Care",
     "img": "12.jpg"
+  },
+  {
+    "id": "13",
+    "create_time": 1744879528,
+    "title": "The Lifesaving Power of Healthcare Support: Bridging Gaps in Healthcare",
+    "type": "Medical Care",
+    "img": "13.jpg"
   },
   {
     "id": "14",
@@ -314,6 +311,20 @@
     "img": "36.jpg"
   },
   {
+    "id": "37",
+    "create_time": 1744880982,
+    "title": "Tooth Replacement Approaches: Affordable Solutions for a Healthy Smile",
+    "type": "Medical Care",
+    "img": "37.jpg"
+  },
+  {
+    "id": "38",
+    "create_time": 1744881673,
+    "title": "Three Telltale Signs You May Need Tooth Replacement Approaches",
+    "type": "Medical Care",
+    "img": "38.jpg"
+  },
+  {
     "id": "39",
     "create_time": 1745223807,
     "title": "The Best Anti - Aging Hand Creams",
@@ -410,6 +421,13 @@
     "title": "The Wide - Reaching Impact: Who Advantages from Healthcare Support",
     "type": "Medical Care",
     "img": "52.jpg"
+  },
+  {
+    "id": "53",
+    "create_time": 1744880463,
+    "title": "Mastering the Path to Free Healthcare: Your Comprehensive Handbook",
+    "type": "Health Management",
+    "img": "53.jpg"
   },
   {
     "id": "54",
@@ -587,6 +605,13 @@
     "img": "78.jpg"
   },
   {
+    "id": "79",
+    "create_time": 1740034691,
+    "title": "Psychological Wellbeing Awareness: Illuminating the Path to Well - being",
+    "type": "Mental Health",
+    "img": "79.jpg"
+  },
+  {
     "id": "80",
     "create_time": 1751251164,
     "title": "A Complete Handbook on Teeth Whitening: Shine with Confidence",
@@ -641,6 +666,13 @@
     "title": "What Triggers Sciatica? Common Causes and Risk Factors Explained",
     "type": "Mental Health",
     "img": "87.jpg"
+  },
+  {
+    "id": "88",
+    "create_time": 1740363359,
+    "title": "The Invaluable Role of Weight - Loss Experts: Your Partners in Health",
+    "type": "Lifestyle",
+    "img": "88.jpg"
   },
   {
     "id": "89",
@@ -860,6 +892,13 @@
     "img": "119.jpg"
   },
   {
+    "id": "120",
+    "create_time": 1742797177,
+    "title": "The Cost of a Full Set of Tooth Replacement Approaches: A Complete Overview",
+    "type": "Medical Care",
+    "img": "120.jpg"
+  },
+  {
     "id": "121",
     "create_time": 1753674658,
     "title": "Anti-Wrinkle Cream Ratings: Ingredients, Results, and Value Compared",
@@ -929,5 +968,4 @@
     "type": "Lifestyle",
     "img": "130.jpg"
   }
-
 ]
