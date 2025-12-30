@@ -2,10 +2,10 @@
     "id": 13,
     "title": "Common Household Services: What They Offer and Why You Need Them",
     "type": "service",
-    "img": "13.jpg",
+    "img": "13.webp",
     "section": "What Are Household Services?\nHousehold services refer to a range of professional services designed to assist with daily or periodic tasks related to maintaining a home, caring for family members, and managing household operations. These services are provided by trained professionals or agencies, aiming to reduce the burden of household responsibilities, save time, and ensure tasks are completed efficiently and effectively.",
     "content": [
-        "<p><img src=\"13_content_1.jpg\" alt=\"\"></p>",
+        "<p><img src=\"13_content_1.webp\" alt=\"\"></p>",
         "<h3 style=\"line-height: 2;\"><strong>Common Types of Household Services</strong></h3>",
         "<p><!-- [if !supportLists]-->&bull; <!--[endif]--><strong>Residential Cleaning</strong>: This includes regular cleaning (weekly, bi-weekly, or monthly) of homes, deep cleaning for special occasions, or post-construction cleaning. Services typically cover dusting, vacuuming, mopping, sanitizing bathrooms and kitchens, and cleaning windows.</p>",
         "<p><!-- [if !supportLists]-->&bull; <!--[endif]--><strong>Childcare Services</strong>: Professional childcare providers offer in-home care for children, including babysitting, nanny services, and after-school care. They may assist with homework, prepare meals for kids, organize activities, and ensure children's safety and well-being.</p>",
